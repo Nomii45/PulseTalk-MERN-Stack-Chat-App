@@ -1,6 +1,6 @@
 # StreamFiy - Chat App (Coming Soon 🚧)
 
-**StreamFiy** is an upcoming full-stack real-time chat application with **video calling** functionality — designed to be simple, fast, and modern.
+**StreamFiy** is an upcoming MERN-Stack real-time chat application with **video calling** functionality — designed to be simple, fast, and modern.
 
 This project is currently under development and will soon be available for public use.
 
@@ -41,4 +41,23 @@ This project is currently under development and will soon be available for publi
 ---
 
 ## 📂 Folder Structure
+StreamFiy/
+├── backend/ # Express + Socket.IO server
+├── client/ # React app (chat + video UI)
+└── README.md
+
+---
+
+## 🧪 How to Run (Development Mode)
+
+```bash
+# Backend
+cd backend
+npm install
+npm run dev
+
+# Frontend
+cd client
+npm install
+npm run dev
 

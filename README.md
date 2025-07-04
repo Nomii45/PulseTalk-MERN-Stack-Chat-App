@@ -49,3 +49,19 @@
 **Real-Time:**
 - WebRTC
 - Stream Chat API *(optional layer)*
+
+
+---
+
+## 🧪 Running Locally (Dev Mode)
+
+```bash
+# Step 1: Start Backend
+cd backend
+npm install
+npm run dev
+
+# Step 2: Start Frontend
+cd ../frontend
+npm install
+npm run dev

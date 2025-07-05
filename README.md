@@ -20,6 +20,7 @@
 
 ---
 
+
 ## 🚧 Project Status
 
 | Feature                    | Status       |
@@ -49,7 +50,6 @@
 **Real-Time:**
 - WebRTC
 - Stream Chat API *(optional layer)*
-
 
 ---
 

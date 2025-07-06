@@ -112,7 +112,6 @@ export function logout(req, res) {
     res.clearCookie("token")
     res.status(200).json({ success: true, message: "Logout successful" })
 }
-<<<<<<< HEAD
 
 export async function onboard(req, res) {
     try {
@@ -170,5 +169,3 @@ export async function onboard(req, res) {
         res.status(500).json({ message: "Internal Server Error" })
     }
 }
-=======
->>>>>>> f6ca03889774c04a75083ce04be65ace0d94a6c5

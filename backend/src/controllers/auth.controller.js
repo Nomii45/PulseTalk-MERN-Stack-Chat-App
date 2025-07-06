@@ -2,10 +2,7 @@ import { upsertStreamUser } from "../lib/stream.js"
 import User from "../models/User.js"
 import jwt from "jsonwebtoken"
 
-
-// ============================
 // SIGNUP CONTROLLER
-// ============================
 //we got email, password , name from user
 export async function signup(req, res) {
     const { email, password, fullName } = req.body
@@ -77,10 +74,7 @@ export async function signup(req, res) {
     }
 
 }
-
-//  ============================
 //  LOGIN CONTROLLER
-// ============================
 // Placeholder login route
 export async function login(req, res) {
     try {
@@ -112,14 +106,13 @@ export async function login(req, res) {
         res.status(500).json({ message: "Internal Server Error" })
     }
 }
-// ============================
 // LOGOUT CONTROLLER
-// ============================
 // Placeholder login route
 export function logout(req, res) {
     res.clearCookie("token")
     res.status(200).json({ success: true, message: "Logout successful" })
 }
+<<<<<<< HEAD
 
 export async function onboard(req, res) {
     try {
@@ -177,3 +170,5 @@ export async function onboard(req, res) {
         res.status(500).json({ message: "Internal Server Error" })
     }
 }
+=======
+>>>>>>> f6ca03889774c04a75083ce04be65ace0d94a6c5

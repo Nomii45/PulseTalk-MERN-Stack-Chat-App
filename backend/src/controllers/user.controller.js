@@ -14,10 +14,5 @@ export async function getRecommendedUsers(req, res) {
     } catch (error) {
         console.error("Error in getRecomendedUsers controller", error.message);
         res.status(500).json({ message: "Internal Server Error" })
-
     }
-}
-
-export async function getMyFriends(req, res) {
-
 }

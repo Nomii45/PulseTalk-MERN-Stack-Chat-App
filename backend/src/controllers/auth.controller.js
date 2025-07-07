@@ -112,7 +112,7 @@ export function logout(req, res) {
     res.clearCookie("token")
     res.status(200).json({ success: true, message: "Logout successful" })
 }
-
+// ONBOARD CONTROLLER
 export async function onboard(req, res) {
     try {
         const userId = req.user._id;

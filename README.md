@@ -26,8 +26,9 @@
 
 | Feature                    | Status         |
 |---------------------------|----------------|
-| ✅ Backend Setup           | Complete ✅     |
+| ✅ Backend Setup           | Completed ✅     |
 | 🔄 Frontend UI             | In Progress    |
+| ✅ tailwind Setup           | Completed ✅     |
 | ✅ WebRTC + Socket.IO Base | Connected ✅    |
 | 🔄 Video Call Integration  | Work in Progress |
 | ✅ Auth + JWT              | Implemented ✅ |

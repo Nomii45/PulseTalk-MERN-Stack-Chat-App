@@ -9,6 +9,7 @@
 ## ✨ Features (Planned & In Progress)
 
 - ✅ Real-time one-on-one chat
+- ✅ Group chat
 - ✅ Video calling using **WebRTC**
 - ✅ Secure user authentication with **JWT**
 - ✅ Real-time communication via **Socket.IO**

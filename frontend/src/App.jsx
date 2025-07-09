@@ -1,19 +1,26 @@
 import React from 'react';
-
+import { Route, Routes } from "react-router-dom"
+import HomePage from "./pages/HomePage"
+import CallPage from "./pages/CallPage.jsx"
+import ChatPage from "./pages/ChatPage.jsx"
+import LoginPage from "./pages/LoginPage.jsx"
+import NotificationPage from "./pages/NotificationPage.jsx"
+import OnboardingPage from "./pages/OnboardingPage.jsx"
+import SignUpPage from "./pages/SignUpPage.jsx"
 function App() {
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-gray-100 to-gray-300 p-4">
-      <div className="text-center bg-white rounded-2xl shadow-xl p-10">
-        <h1 className="text-4xl font-extrabold text-yellow-600 mb-4">
-         StreamFiy-Chat !
-        </h1>
-        <p className="text-gray-600 text-lg">
-          You can now build your UI with utility-first styling!
-        </p>
-      </div>
+    <div>
+      <Routes>
+        <Route path='/' element={<HomePage />} />
+        <Route path='/call' element={<CallPage />} />
+        <Route path='/chat' element={<ChatPage />} />
+        <Route path='/login' element={<LoginPage />} />
+        <Route path='/notification' element={<NotificationPage />} />
+        <Route path='/onboarding' element={<OnboardingPage />} />
+        <Route path='/signup' element={<SignUpPage />} />
+      </Routes>
     </div>
   );
 }
-
 
 export default App;

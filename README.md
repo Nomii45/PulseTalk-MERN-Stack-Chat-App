@@ -6,19 +6,16 @@
 
 ---
 
-## ✨ Features (Planned & In Progress)
+## ✨ Features
 
-- ✅ Real-time one-on-one chat
-- ✅ Group chat
-- ✅ Video calling using **WebRTC**
-- ✅ Secure user authentication with **JWT**
-- ✅ Real-time communication via **Socket.IO**
-- ✅ Online/offline user status indicators
-- 🔄 Media sharing (images, audio, files)
-- ✅ Stream Chat API integration *(for advanced token/auth handling)*
-- 🧩 Fully responsive UI (mobile + desktop)
-- 🕵️‍♂️ Message read receipts *(coming soon)*
-- 🎨 Dark/light mode toggle *(optional)*
+- 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
+🎃 Authentication && Authorization with JWT
+👾 Real-time messaging with Socket.io
+🚀 Online user status
+👌 Global state management with Zustand
+🐞 Error handling both on the server and on the client
+⭐ At the end Deployment like a pro for FREE!
+⏳ And much more!
 
 ---
 

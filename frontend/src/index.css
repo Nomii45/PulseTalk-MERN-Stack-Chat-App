@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* index.css or main.css */
+.avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}

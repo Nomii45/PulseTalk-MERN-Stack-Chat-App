@@ -1,6 +1,6 @@
 # 🚀 StreamFiy - Real-Time Chat App (Coming Soon)
 
-**StreamFiy** is an upcoming **MERN Stack** real-time **chat application** with **video calling** functionality — designed to be lightweight, modern, and scalable.
+**StreamFiy** is an **MERN Stack** real-time **chat application**  functionality — designed to be lightweight, modern, and scalable.
 
 > 🧪 Currently under active development. Stay tuned!
 

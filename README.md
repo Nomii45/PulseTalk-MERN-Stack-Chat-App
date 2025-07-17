@@ -2,10 +2,6 @@
 
 **PulseTalk** is an **MERN Stack** real-time **chat application**  functionality — designed to be lightweight, modern, and scalable.
 
-> 🧪 Currently under active development. Stay tuned!
-
----
-
 ## ✨ Features
 
 - 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
@@ -24,12 +20,10 @@
 | Feature                    | Status         |
 |---------------------------|----------------|
 | ✅ Backend Setup           | Completed ✅     |
-| 🔄 Frontend UI             | In Progress    |
+| 🔄 Frontend UI             | Completed ✅   |
 | ✅ tailwind Setup           | Completed ✅     |
 | ✅ WebRTC + Socket.IO Base | Connected ✅    |
-| 🔄 Video Call Integration  | Work in Progress |
 | ✅ Auth + JWT              | Implemented ✅ |
-| ✅ Onboarding Flow         | Added ✅        |
 | ✅ REST API + Stream Token | Ready ✅        |
 
 ---

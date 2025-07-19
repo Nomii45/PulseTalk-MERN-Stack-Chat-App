@@ -34,7 +34,7 @@
 - React.js (Vite)
 - Socket.IO Client
 - Simple-Peer (WebRTC)
-- Tailwind CSS *(planned)*
+- Tailwind CSS *(completed)*
 
 ### Backend:
 - Node.js + Express

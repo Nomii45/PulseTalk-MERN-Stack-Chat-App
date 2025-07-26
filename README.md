@@ -46,7 +46,7 @@
 
 ---
 
-## 🧪 Running Locally (Dev Mode)
+## Running Locally (Dev Mode)
 
 ```bash
 # Step 1: Backend

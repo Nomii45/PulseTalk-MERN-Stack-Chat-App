@@ -42,7 +42,6 @@
 - JWT Authentication
 - RESTful API Structure
 - Stream Chat API (token generation, sync)
-
 ---
 
 ## Running Locally (Dev Mode)

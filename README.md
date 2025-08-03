@@ -1,10 +1,10 @@
 # 🚀 PulseTalk - Real-Time Chat App 
 
-**PulseTalk** is an **MERN Stack** real-time **chat application**  functionality — designed to be lightweight, modern, and scalable.
+**PulseTalk** is an **MERN Stack** real-time **chat application** functionality — designed to be lightweight, modern, and scalable.
 
 ## ✨ Features
 
-- 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
+🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
 🎃 Authentication && Authorization with JWT
 👾 Real-time messaging with Socket.io
 🚀 Online user status
